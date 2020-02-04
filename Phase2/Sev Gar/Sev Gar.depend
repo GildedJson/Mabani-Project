@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1580764669 source:f:\sadegh\thick concrete wall\mabani\proje\goodproject\sev gar\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<winsock2.h>
+	<windows.h>
+	<time.h>
+	"cJSON.h"
+	"cJSON.c"
+
+1576229369 f:\sadegh\thick concrete wall\mabani\proje\goodproject\sev gar\cjson.h
+	<stddef.h>
+
+1576229370 f:\sadegh\thick concrete wall\mabani\proje\goodproject\sev gar\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+

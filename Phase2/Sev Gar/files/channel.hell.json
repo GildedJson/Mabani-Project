@@ -1,0 +1,15 @@
+{
+	"messages":	[{
+			"sender":	"Server.c",
+			"content":	"aniki created this channel."
+		}, {
+			"sender":	"Server.j",
+			"content":	"3 joined the channel."
+		}, {
+			"sender":	"3",
+			"content":	"olleh"
+		}, {
+			"sender":	"3",
+			"content":	"Welcome to HELL!!!"
+		}]
+}

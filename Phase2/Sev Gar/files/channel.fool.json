@@ -1,0 +1,39 @@
+{
+	"messages":	[{
+			"sender":	"Server.c",
+			"content":	"first"
+		}, {
+			"sender":	"Server.j",
+			"content":	"second"
+		}, {
+			"sender":	"Server.j",
+			"content":	"3rd"
+		}, {
+			"sender":	"Server.j",
+			"content":	"4th"
+		}, {
+			"sender":	"3",
+			"content":	"5th"
+		}, {
+			"sender":	"3",
+			"content":	"6th"
+		}, {
+			"sender":	"3",
+			"content":	"7th"
+		}, {
+			"sender":	"Server.j",
+			"content":	"hasht"
+		}, {
+			"sender":	"3",
+			"content":	"hello"
+		}, {
+			"sender":	"3",
+			"content":	"hello"
+		}, {
+			"sender":	"Server.j",
+			"content":	"2 joined the channel."
+		}, {
+			"sender":	"2",
+			"content":	"poison"
+		}]
+}
